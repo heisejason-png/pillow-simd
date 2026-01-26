@@ -128,3 +128,4 @@ All bugfixes to the original Pillow will then be transferred to the next Pillow-
   [pillow-perf-repo]: https://github.com/python-pillow/pillow-perf
   [uploadcare.com]: https://uploadcare.com/?utm_source=github&utm_medium=description&utm_campaign=pillow-simd
   [uploadcare.logo]: https://ucarecdn.com/8eca784b-bbe5-4f7e-8cdf-98d75aab8cec/logotransparent.svg
+Created by Jason Scott Heise
